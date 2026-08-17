@@ -48,7 +48,3 @@ Acesse em: [https://estevaobm.shinyapps.io/dashboard_analise_estudantil/](ttps:/
 - `study_time_hours`, `attendance_percent` e `previous_grade` são os fatores com maior poder explicativo sobre a nota final.
 - Variáveis como gênero e trabalho de meio período têm efeito menor ou não significativo.
 - Detalhes completos, limitações do modelo e discussão estatística estão no notebook.
-
-## ✍️ Autor
-
-**Estevão** — Estudante de Data Science & IA (IBMEC-RJ)

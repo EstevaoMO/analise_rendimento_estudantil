@@ -34,7 +34,7 @@ Entender quais variáveis (horas de estudo, frequência, sono, contexto familiar
 3. Execute as células em ordem
 
 ### Dashboard (Shiny)
-Acesse em: [https://estevaobm.shinyapps.io/dashboard_analise_estudantil/](ttps://estevaobm.shinyapps.io/dashboard_analise_estudantil/)
+Acesse em: [https://estevaobm.shinyapps.io/dashboard_analise_estudantil/](https://estevaobm.shinyapps.io/dashboard_analise_estudantil/)
 
 ## 🛠️ Tecnologias
 
